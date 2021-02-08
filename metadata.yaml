@@ -1,0 +1,25 @@
+_repo: Lady-Maclairn-the-Victim-of-Villany-A-Novel-Volume-1-of-4_64405
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hunter, Mrs. (Rachel)
+    alias: Hunter, Rachel
+    birthdate: 1754
+    deathdate: 1813
+    gutenberg_agent_id: '52886'
+    url: http://www.gutenberg.org/2009/agents/52886
+description: ''
+gutenberg_issued: '2021-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction'
+- GITenberg
+title: 'Lady Maclairn, the Victim of Villany: A Novel, Volume 1 (of 4)'
+url: http://www.gutenberg.org/ebooks/64405
